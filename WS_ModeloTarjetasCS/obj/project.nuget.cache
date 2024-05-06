@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "LORto5dkCNsQxLS0S5IP7XRu1pgr6YoMUOrdSaYmy/QpBEwupxENJgNVFAvJTxkkskrTmVJixvAWQl31Va5hig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chrso\\source\\repos\\WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chrso\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\chrso\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\chrso\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\chrso\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\chrso\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\chrso\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\chrso\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

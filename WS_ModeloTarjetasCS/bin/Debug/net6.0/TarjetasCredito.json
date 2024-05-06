@@ -1,0 +1,262 @@
+[
+  {
+    "lStrNumeroTarjeta": "1234567890123456",
+    "lStrPropietarioTarjeta": "John Doe",
+    "lStrFechaExpiracion": "12/25",
+    "lStrCodigoSeguridad": "123",
+    "lStrEstadoBloqueo": "false",
+    "lStrProveedorTarjeta": "Visa",
+    "lStrRedTarjeta": "Visa",
+    "lDblCreditoLimite": 5000.0,
+    "lDblCreditoDisponible": 3000.0,
+    "lStrFormaCobro": "Monthly",
+    "lStrFechaCobro": "01/01",
+    "lDblTasaInteres": 0.18,
+    "Transacciones": [
+      {
+        "lStrFecha": "2024-04-25",
+        "lStrDescripcion": "Purchase at XYZ Store",
+        "lDblMonto": 50.0
+      },
+      {
+        "lStrFecha": "2024-04-24",
+        "lStrDescripcion": "Online payment to Utility Company",
+        "lDblMonto": 100.0
+      }
+    ]
+  },
+  {
+    "lStrNumeroTarjeta": "9876543210987654",
+    "lStrPropietarioTarjeta": "Jane Smith",
+    "lStrFechaExpiracion": "10/27",
+    "lStrCodigoSeguridad": "321",
+    "lStrEstadoBloqueo": "false",
+    "lStrProveedorTarjeta": "Mastercard",
+    "lStrRedTarjeta": "Mastercard",
+    "lDblCreditoLimite": 8000.0,
+    "lDblCreditoDisponible": 5000.0,
+    "lStrFormaCobro": "Revolving",
+    "lStrFechaCobro": "15th of every month",
+    "lDblTasaInteres": 0.15,
+    "Transacciones": [
+      {
+        "lStrFecha": "2024-04-25",
+        "lStrDescripcion": "Dinner at ABC Restaurant",
+        "lDblMonto": 75.0
+      },
+      {
+        "lStrFecha": "2024-04-23",
+        "lStrDescripcion": "Gas station refill",
+        "lDblMonto": 40.0
+      }
+    ]
+  },
+  {
+    "lStrNumeroTarjeta": "1234567890123456",
+    "lStrPropietarioTarjeta": "John Doe",
+    "lStrFechaExpiracion": "12/25",
+    "lStrCodigoSeguridad": "123",
+    "lStrEstadoBloqueo": "false",
+    "lStrProveedorTarjeta": "Visa",
+    "lStrRedTarjeta": "Visa",
+    "lDblCreditoLimite": 5000.0,
+    "lDblCreditoDisponible": 3000.0,
+    "lStrFormaCobro": "Monthly",
+    "lStrFechaCobro": "01/01",
+    "lDblTasaInteres": 0.18,
+    "Transacciones": [
+      {
+        "lStrFecha": "2024-04-25",
+        "lStrDescripcion": "Purchase at XYZ Store",
+        "lDblMonto": 50.0
+      },
+      {
+        "lStrFecha": "2024-04-24",
+        "lStrDescripcion": "Online payment to Utility Company",
+        "lDblMonto": 100.0
+      }
+    ]
+  },
+  {
+    "lStrNumeroTarjeta": "9876543210987654",
+    "lStrPropietarioTarjeta": "Jane Smith",
+    "lStrFechaExpiracion": "10/27",
+    "lStrCodigoSeguridad": "321",
+    "lStrEstadoBloqueo": "false",
+    "lStrProveedorTarjeta": "Mastercard",
+    "lStrRedTarjeta": "Mastercard",
+    "lDblCreditoLimite": 8000.0,
+    "lDblCreditoDisponible": 5000.0,
+    "lStrFormaCobro": "Revolving",
+    "lStrFechaCobro": "15th of every month",
+    "lDblTasaInteres": 0.15,
+    "Transacciones": [
+      {
+        "lStrFecha": "2024-04-25",
+        "lStrDescripcion": "Dinner at ABC Restaurant",
+        "lDblMonto": 75.0
+      },
+      {
+        "lStrFecha": "2024-04-23",
+        "lStrDescripcion": "Gas station refill",
+        "lDblMonto": 40.0
+      }
+    ]
+  },
+  {
+    "lStrNumeroTarjeta": "1111222233334444",
+    "lStrPropietarioTarjeta": "Alice Johnson",
+    "lStrFechaExpiracion": "09/26",
+    "lStrCodigoSeguridad": "456",
+    "lStrEstadoBloqueo": "false",
+    "lStrProveedorTarjeta": "American Express",
+    "lStrRedTarjeta": "American Express",
+    "lDblCreditoLimite": 10000.0,
+    "lDblCreditoDisponible": 7500.0,
+    "lStrFormaCobro": "Monthly",
+    "lStrFechaCobro": "05/01",
+    "lDblTasaInteres": 0.2,
+    "Transacciones": [
+      {
+        "lStrFecha": "2024-04-24",
+        "lStrDescripcion": "Grocery shopping at FreshMart",
+        "lDblMonto": 120.0
+      },
+      {
+        "lStrFecha": "2024-04-22",
+        "lStrDescripcion": "Movie tickets",
+        "lDblMonto": 25.0
+      }
+    ]
+  },
+  {
+    "lStrNumeroTarjeta": "5555666677778888",
+    "lStrPropietarioTarjeta": "Bob Thompson",
+    "lStrFechaExpiracion": "08/28",
+    "lStrCodigoSeguridad": "789",
+    "lStrEstadoBloqueo": "false",
+    "lStrProveedorTarjeta": "Discover",
+    "lStrRedTarjeta": "Discover",
+    "lDblCreditoLimite": 6000.0,
+    "lDblCreditoDisponible": 2000.0,
+    "lStrFormaCobro": "Monthly",
+    "lStrFechaCobro": "10th of every month",
+    "lDblTasaInteres": 0.16,
+    "Transacciones": [
+      {
+        "lStrFecha": "2024-04-23",
+        "lStrDescripcion": "Electronics purchase at TechStop",
+        "lDblMonto": 300.0
+      },
+      {
+        "lStrFecha": "2024-04-21",
+        "lStrDescripcion": "Online subscription renewal",
+        "lDblMonto": 15.0
+      }
+    ]
+  },
+  {
+    "lStrNumeroTarjeta": "9999888877776666",
+    "lStrPropietarioTarjeta": "Sarah Johnson",
+    "lStrFechaExpiracion": "11/27",
+    "lStrCodigoSeguridad": "246",
+    "lStrEstadoBloqueo": "false",
+    "lStrProveedorTarjeta": "Visa",
+    "lStrRedTarjeta": "Visa",
+    "lDblCreditoLimite": 7000.0,
+    "lDblCreditoDisponible": 4000.0,
+    "lStrFormaCobro": "Revolving",
+    "lStrFechaCobro": "20th of every month",
+    "lDblTasaInteres": 0.17,
+    "Transacciones": [
+      {
+        "lStrFecha": "2024-04-22",
+        "lStrDescripcion": "Clothing shopping at FashionHive",
+        "lDblMonto": 90.0
+      },
+      {
+        "lStrFecha": "2024-04-20",
+        "lStrDescripcion": "Coffee at Central Cafe",
+        "lDblMonto": 5.0
+      }
+    ]
+  },
+  {
+    "lStrNumeroTarjeta": "1212121212121212",
+    "lStrPropietarioTarjeta": "Michael Brown",
+    "lStrFechaExpiracion": "07/28",
+    "lStrCodigoSeguridad": "135",
+    "lStrEstadoBloqueo": "false",
+    "lStrProveedorTarjeta": "Mastercard",
+    "lStrRedTarjeta": "Mastercard",
+    "lDblCreditoLimite": 9000.0,
+    "lDblCreditoDisponible": 6000.0,
+    "lStrFormaCobro": "Monthly",
+    "lStrFechaCobro": "05/05",
+    "lDblTasaInteres": 0.14,
+    "Transacciones": [
+      {
+        "lStrFecha": "2024-04-21",
+        "lStrDescripcion": "Lunch at Seafood Express",
+        "lDblMonto": 40.0
+      },
+      {
+        "lStrFecha": "2024-04-19",
+        "lStrDescripcion": "Book purchase at BookWorld",
+        "lDblMonto": 20.0
+      }
+    ]
+  },
+  {
+    "lStrNumeroTarjeta": "4444333322221111",
+    "lStrPropietarioTarjeta": "Emily Wilson",
+    "lStrFechaExpiracion": "06/27",
+    "lStrCodigoSeguridad": "579",
+    "lStrEstadoBloqueo": "false",
+    "lStrProveedorTarjeta": "Discover",
+    "lStrRedTarjeta": "Discover",
+    "lDblCreditoLimite": 7500.0,
+    "lDblCreditoDisponible": 3000.0,
+    "lStrFormaCobro": "Monthly",
+    "lStrFechaCobro": "25th of every month",
+    "lDblTasaInteres": 0.16,
+    "Transacciones": [
+      {
+        "lStrFecha": "2024-04-20",
+        "lStrDescripcion": "Home improvement materials",
+        "lDblMonto": 150.0
+      },
+      {
+        "lStrFecha": "2024-04-18",
+        "lStrDescripcion": "Dinner with friends",
+        "lDblMonto": 80.0
+      }
+    ]
+  },
+  {
+    "lStrNumeroTarjeta": "7777666655554444",
+    "lStrPropietarioTarjeta": "David Rodriguez",
+    "lStrFechaExpiracion": "05/28",
+    "lStrCodigoSeguridad": "975",
+    "lStrEstadoBloqueo": "false",
+    "lStrProveedorTarjeta": "American Express",
+    "lStrRedTarjeta": "American Express",
+    "lDblCreditoLimite": 8500.0,
+    "lDblCreditoDisponible": 4000.0,
+    "lStrFormaCobro": "Revolving",
+    "lStrFechaCobro": "20th of every month",
+    "lDblTasaInteres": 0.19,
+    "Transacciones": [
+      {
+        "lStrFecha": "2024-04-19",
+        "lStrDescripcion": "Gym membership renewal",
+        "lDblMonto": 60.0
+      },
+      {
+        "lStrFecha": "2024-04-17",
+        "lStrDescripcion": "Music concert tickets",
+        "lDblMonto": 100.0
+      }
+    ]
+  }
+]

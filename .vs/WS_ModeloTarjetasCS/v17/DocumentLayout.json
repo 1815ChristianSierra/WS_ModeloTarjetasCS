@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chrso\\source\\repos\\WS_ModeloTarjetasCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{198A4B86-27F7-4057-8FB7-92BB426DD306}|WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS.csproj|c:\\users\\chrso\\source\\repos\\ws_modelotarjetascs\\ws_modelotarjetascs\\controllers\\clstarjetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198A4B86-27F7-4057-8FB7-92BB426DD306}|WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS.csproj|solutionrelative:ws_modelotarjetascs\\controllers\\clstarjetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198A4B86-27F7-4057-8FB7-92BB426DD306}|WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS.csproj|C:\\Users\\chrso\\source\\repos\\WS_ModeloTarjetasCS\\ws_modelotarjetascs\\clstarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198A4B86-27F7-4057-8FB7-92BB426DD306}|WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS.csproj|solutionrelative:ws_modelotarjetascs\\clstarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DA6D15-D717-461E-ACE3-7C3085C032B8}|..\\EstructurasDatosPG3\\EstructurasDatosPG3CS.csproj|c:\\users\\chrso\\source\\repos\\estructurasdatospg3\\pilas\\clsplista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DA6D15-D717-461E-ACE3-7C3085C032B8}|..\\EstructurasDatosPG3\\EstructurasDatosPG3CS.csproj|c:\\users\\chrso\\source\\repos\\estructurasdatospg3\\pilas\\clspnodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DA6D15-D717-461E-ACE3-7C3085C032B8}|..\\EstructurasDatosPG3\\EstructurasDatosPG3CS.csproj|c:\\users\\chrso\\source\\repos\\estructurasdatospg3\\arbolesbinarios\\clsarbolbinariobusqueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DA6D15-D717-461E-ACE3-7C3085C032B8}|..\\EstructurasDatosPG3\\EstructurasDatosPG3CS.csproj|c:\\users\\chrso\\source\\repos\\estructurasdatospg3\\arbolesbinarios\\clscomparador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DA6D15-D717-461E-ACE3-7C3085C032B8}|..\\EstructurasDatosPG3\\EstructurasDatosPG3CS.csproj|c:\\users\\chrso\\source\\repos\\estructurasdatospg3\\arbolesbinarios\\clsarbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DA6D15-D717-461E-ACE3-7C3085C032B8}|..\\EstructurasDatosPG3\\EstructurasDatosPG3CS.csproj|c:\\users\\chrso\\source\\repos\\estructurasdatospg3\\arbolesbinarios\\clsabnodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DA6D15-D717-461E-ACE3-7C3085C032B8}|..\\EstructurasDatosPG3\\EstructurasDatosPG3CS.csproj|c:\\users\\chrso\\source\\repos\\estructurasdatospg3\\colas\\clsclista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198A4B86-27F7-4057-8FB7-92BB426DD306}|WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS.csproj|C:\\Users\\chrso\\source\\repos\\WS_ModeloTarjetasCS\\ws_modelotarjetascs\\clspagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198A4B86-27F7-4057-8FB7-92BB426DD306}|WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS.csproj|solutionrelative:ws_modelotarjetascs\\clspagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DA6D15-D717-461E-ACE3-7C3085C032B8}|..\\EstructurasDatosPG3\\EstructurasDatosPG3CS.csproj|c:\\users\\chrso\\source\\repos\\estructurasdatospg3\\listassimples\\clslslista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198A4B86-27F7-4057-8FB7-92BB426DD306}|WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS.csproj|C:\\Users\\chrso\\source\\repos\\WS_ModeloTarjetasCS\\ws_modelotarjetascs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198A4B86-27F7-4057-8FB7-92BB426DD306}|WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS.csproj|solutionrelative:ws_modelotarjetascs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198A4B86-27F7-4057-8FB7-92BB426DD306}|WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS.csproj|C:\\Users\\chrso\\source\\repos\\WS_ModeloTarjetasCS\\ws_modelotarjetascs\\clstransacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198A4B86-27F7-4057-8FB7-92BB426DD306}|WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS.csproj|solutionrelative:ws_modelotarjetascs\\clstransacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsPNodo.cs",
+              "DocumentMoniker": "C:\\Users\\chrso\\source\\repos\\EstructurasDatosPG3\\Pilas\\clsPNodo.cs",
+              "RelativeDocumentMoniker": "..\\EstructurasDatosPG3\\Pilas\\clsPNodo.cs",
+              "ToolTip": "C:\\Users\\chrso\\source\\repos\\EstructurasDatosPG3\\Pilas\\clsPNodo.cs",
+              "RelativeToolTip": "..\\EstructurasDatosPG3\\Pilas\\clsPNodo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:47:33.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsPLista.cs",
+              "DocumentMoniker": "C:\\Users\\chrso\\source\\repos\\EstructurasDatosPG3\\Pilas\\clsPLista.cs",
+              "RelativeDocumentMoniker": "..\\EstructurasDatosPG3\\Pilas\\clsPLista.cs",
+              "ToolTip": "C:\\Users\\chrso\\source\\repos\\EstructurasDatosPG3\\Pilas\\clsPLista.cs",
+              "RelativeToolTip": "..\\EstructurasDatosPG3\\Pilas\\clsPLista.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA+wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:47:31.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsArbolBinarioBusqueda.cs",
+              "DocumentMoniker": "C:\\Users\\chrso\\source\\repos\\EstructurasDatosPG3\\ArbolesBinarios\\clsArbolBinarioBusqueda.cs",
+              "RelativeDocumentMoniker": "..\\EstructurasDatosPG3\\ArbolesBinarios\\clsArbolBinarioBusqueda.cs",
+              "ToolTip": "C:\\Users\\chrso\\source\\repos\\EstructurasDatosPG3\\ArbolesBinarios\\clsArbolBinarioBusqueda.cs",
+              "RelativeToolTip": "..\\EstructurasDatosPG3\\ArbolesBinarios\\clsArbolBinarioBusqueda.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAG4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:33:11.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsTarjetasController.cs",
+              "DocumentMoniker": "C:\\Users\\chrso\\source\\repos\\WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS\\Controllers\\clsTarjetasController.cs",
+              "RelativeDocumentMoniker": "WS_ModeloTarjetasCS\\Controllers\\clsTarjetasController.cs",
+              "ToolTip": "C:\\Users\\chrso\\source\\repos\\WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS\\Controllers\\clsTarjetasController.cs",
+              "RelativeToolTip": "WS_ModeloTarjetasCS\\Controllers\\clsTarjetasController.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAAALMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T02:43:12.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsComparador.cs",
+              "DocumentMoniker": "C:\\Users\\chrso\\source\\repos\\EstructurasDatosPG3\\ArbolesBinarios\\clsComparador.cs",
+              "RelativeDocumentMoniker": "..\\EstructurasDatosPG3\\ArbolesBinarios\\clsComparador.cs",
+              "ToolTip": "C:\\Users\\chrso\\source\\repos\\EstructurasDatosPG3\\ArbolesBinarios\\clsComparador.cs",
+              "RelativeToolTip": "..\\EstructurasDatosPG3\\ArbolesBinarios\\clsComparador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:33:25.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsArbolBinario.cs",
+              "DocumentMoniker": "C:\\Users\\chrso\\source\\repos\\EstructurasDatosPG3\\ArbolesBinarios\\clsArbolBinario.cs",
+              "RelativeDocumentMoniker": "..\\EstructurasDatosPG3\\ArbolesBinarios\\clsArbolBinario.cs",
+              "ToolTip": "C:\\Users\\chrso\\source\\repos\\EstructurasDatosPG3\\ArbolesBinarios\\clsArbolBinario.cs",
+              "RelativeToolTip": "..\\EstructurasDatosPG3\\ArbolesBinarios\\clsArbolBinario.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:32:58.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsABNodo.cs",
+              "DocumentMoniker": "C:\\Users\\chrso\\source\\repos\\EstructurasDatosPG3\\ArbolesBinarios\\clsABNodo.cs",
+              "RelativeDocumentMoniker": "..\\EstructurasDatosPG3\\ArbolesBinarios\\clsABNodo.cs",
+              "ToolTip": "C:\\Users\\chrso\\source\\repos\\EstructurasDatosPG3\\ArbolesBinarios\\clsABNodo.cs",
+              "RelativeToolTip": "..\\EstructurasDatosPG3\\ArbolesBinarios\\clsABNodo.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAcwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:32:42.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsPagos.cs",
+              "DocumentMoniker": "C:\\Users\\chrso\\source\\repos\\WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS\\clsPagos.cs",
+              "RelativeDocumentMoniker": "WS_ModeloTarjetasCS\\clsPagos.cs",
+              "ToolTip": "C:\\Users\\chrso\\source\\repos\\WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS\\clsPagos.cs",
+              "RelativeToolTip": "WS_ModeloTarjetasCS\\clsPagos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:12:35.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chrso\\source\\repos\\WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS\\Program.cs",
+              "RelativeDocumentMoniker": "WS_ModeloTarjetasCS\\Program.cs",
+              "ToolTip": "C:\\Users\\chrso\\source\\repos\\WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS\\Program.cs",
+              "RelativeToolTip": "WS_ModeloTarjetasCS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T01:31:53.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsTarjetaCredito.cs",
+              "DocumentMoniker": "C:\\Users\\chrso\\source\\repos\\WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS\\clsTarjetaCredito.cs",
+              "RelativeDocumentMoniker": "WS_ModeloTarjetasCS\\clsTarjetaCredito.cs",
+              "ToolTip": "C:\\Users\\chrso\\source\\repos\\WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS\\clsTarjetaCredito.cs",
+              "RelativeToolTip": "WS_ModeloTarjetasCS\\clsTarjetaCredito.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:17:03.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsCLista.cs",
+              "DocumentMoniker": "C:\\Users\\chrso\\source\\repos\\EstructurasDatosPG3\\Colas\\clsCLista.cs",
+              "RelativeDocumentMoniker": "..\\EstructurasDatosPG3\\Colas\\clsCLista.cs",
+              "ToolTip": "C:\\Users\\chrso\\source\\repos\\EstructurasDatosPG3\\Colas\\clsCLista.cs",
+              "RelativeToolTip": "..\\EstructurasDatosPG3\\Colas\\clsCLista.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAowC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:38:19.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsLSLista.cs",
+              "DocumentMoniker": "C:\\Users\\chrso\\source\\repos\\EstructurasDatosPG3\\ListasSimples\\clsLSLista.cs",
+              "RelativeDocumentMoniker": "..\\EstructurasDatosPG3\\ListasSimples\\clsLSLista.cs",
+              "ToolTip": "C:\\Users\\chrso\\source\\repos\\EstructurasDatosPG3\\ListasSimples\\clsLSLista.cs",
+              "RelativeToolTip": "..\\EstructurasDatosPG3\\ListasSimples\\clsLSLista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:53:37.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsTransacciones.cs",
+              "DocumentMoniker": "C:\\Users\\chrso\\source\\repos\\WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS\\clsTransacciones.cs",
+              "RelativeDocumentMoniker": "WS_ModeloTarjetasCS\\clsTransacciones.cs",
+              "ToolTip": "C:\\Users\\chrso\\source\\repos\\WS_ModeloTarjetasCS\\WS_ModeloTarjetasCS\\clsTransacciones.cs",
+              "RelativeToolTip": "WS_ModeloTarjetasCS\\clsTransacciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:16:49.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
